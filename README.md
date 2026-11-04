@@ -6,3 +6,6 @@ POST YANG BENAR
 
 GET
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/66b33291-f179-49ac-8760-d87f3943194a" />
+
+PUT
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/7f522560-d99b-4e92-839b-c00414d584ed" />
